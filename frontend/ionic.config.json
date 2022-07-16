@@ -1,0 +1,6 @@
+{
+  "name": "udaspicelatte",
+  "integrations": {"cordova": {
+  }},
+  "type": "angular"
+}
